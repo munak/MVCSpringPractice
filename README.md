@@ -1,2 +1,2 @@
 # SpringMVC
-S
+Spring Practice
