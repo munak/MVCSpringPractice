@@ -1,1 +1,2 @@
-# MVCSpringPractice
+# SpringMVC
+S
